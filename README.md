@@ -139,7 +139,7 @@ No terminal integrado do VS Code (onde seu ambiente virtual está ativo), copie 
 ```bash
 pip install qiskit
 pip install qiskit[visualization]
-pip install qiskit-aer
+pip install qiskit_aer
 pip install qiskit_ibm_runtime
 ```
 
