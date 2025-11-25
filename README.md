@@ -25,9 +25,9 @@ Primeiro, localize e abra o Visual Studio Code em seu computador.
 
 Manter nossos arquivos organizados é uma ótima prática.
 
-1.  Crie uma nova pasta em um local de fácil acesso (por exemplo, na Área de Trabalho ou em Documentos) e nomeie-a como `Minicurso-Qiskit`.
+1.  Crie uma nova pasta em um local de fácil acesso (por exemplo, na Área de Trabalho ou em Documentos) e nomeie-a como `Minicurso_Qiskit`.
 2.  Dentro do VS Code, vá ao menu superior e clique em `File > Open Folder...`.
-3.  Selecione a pasta `Minicurso-Qiskit` que você acabou de criar.
+3.  Selecione a pasta `Minicurso_Qiskit` que você acabou de criar.
 
 ### Passo 3: Criar seu Primeiro Jupyter Notebook
 
@@ -68,7 +68,7 @@ Vamos usar o módulo `venv`, que já vem instalado com o Python.
 
 #### Passo 1: Abrir o Terminal no VS Code
 
-Dentro do VS Code, com a sua pasta `Minicurso-Qiskit` aberta, abra o terminal integrado:
+Dentro do VS Code, com a sua pasta `Minicurso_Qiskit` aberta, abra o terminal integrado:
 *   Vá ao menu superior: `Terminal > New Terminal`.
 *   Ou use o atalho: `Ctrl + '` (a tecla de acento grave/crase).
 
@@ -139,7 +139,7 @@ No terminal integrado do VS Code (onde seu ambiente virtual está ativo), copie 
 ```bash
 pip install qiskit
 pip install qiskit[visualization]
-pip install qiskit-aer
+pip install qiskit_aer
 pip install qiskit_ibm_runtime
 ```
 
