@@ -6,9 +6,11 @@ Olá! Seja bem-vindo(a) ao nosso minicurso de Introdução ao Qiskit. 🚀
 
 Antes de começarmos a programar, vamos fazer uma verificação rápida para garantir que tudo está funcionando como esperado e para que você se familiarize com a ferramenta que usaremos: **VS Code com Jupyter Notebooks**.
 
+
 <div align="center">
   <img src="https://github.com/WelingtonPeres/Minicurso_Qiskit/blob/f26bdb409187f4c9a11bc1f4e980f6126b4e4190/docs_minicurso/VScodeJupyter.jpg" width="400px" />
 </div>
+
 
 
 > **Está configurando o ambiente em casa?** <details>
