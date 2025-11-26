@@ -1,7 +1,7 @@
 
 Olá! Seja bem-vindo(a) ao nosso minicurso de Introdução ao Qiskit. 🚀
 
-![Banner](./docs_minicurso/Banner.png.png)
+[Banner](./docs_minicurso/Banner.png.png)
 # Verificação das Ferramentas
 
 Antes de começarmos a programar, vamos fazer uma verificação rápida para garantir que tudo está funcionando como esperado e para que você se familiarize com a ferramenta que usaremos: **VS Code com Jupyter Notebooks**.
