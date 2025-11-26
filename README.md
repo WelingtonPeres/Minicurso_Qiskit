@@ -13,10 +13,9 @@ Antes de começarmos a programar, vamos fazer uma verificação rápida para gar
 
 
 
-> **Está configurando o ambiente em casa?** <details>
-  > <summary> Clique aqui para abrir o guia de instalação completo.</summary>
-
-  > > Se você não tem Python, VS Code e as extensões necessárias instaladas, por favor, siga nosso guia detalhado antes de continuar.
+  > **Está configurando o ambiente em casa?** </details>
+  >
+  > Se você não tem Python, VS Code e as extensões necessárias instaladas, por favor, siga nosso guia detalhado antes de continuar.
   >
   >  [Guia de Instalação das Ferramentas](docs_minicurso/Guia%20de%20Instalação%20das%20Ferramentas.md)
   >
