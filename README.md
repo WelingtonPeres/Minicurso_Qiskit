@@ -72,9 +72,9 @@ Na primeira vez que você executar o código, o VS Code pode pedir para você **
 No terminal integrado do VS Code, copie e cole o seguinte comando. Ele instalará todos os componentes do Qiskit que precisaremos para o minicurso.
 
 ```bash
-pip install qiskit
+pip install qiskit==2.2.3
 pip install qiskit[visualization]
-pip install qiskit_aer
+pip install qiskit_aer==0.17.1
 pip install qiskit_ibm_runtime
 ```
 
