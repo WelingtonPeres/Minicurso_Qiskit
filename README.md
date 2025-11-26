@@ -18,7 +18,7 @@ Antes de começarmos a programar, vamos fazer uma verificação rápida para gar
 >
 >   > Se você não tem Python, VS Code e as extensões necessárias instaladas, por favor, siga nosso guia detalhado antes de continuar.
 >
->    **[[Guia de Instalação das Ferramentas]]**
+>    [Guia de Instalação das Ferramentas](docs_minicurso/Guia de Instalação das Ferramentas.md)
 >
 >   Após concluir a instalação, retorne a este arquivo para fazer a verificação final. </details>
 
